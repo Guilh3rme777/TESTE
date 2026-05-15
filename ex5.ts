@@ -64,4 +64,4 @@ console.log("\nAgrupando por address.city:");
 console.log(groupBy(users, "address.city"));
 
 console.log("\nAgrupando por address.country.code:");
-console.log(groupBy(users, "address.country.code"));
+console.log(groupBy(users, "address.country.code"));// Guilherme
