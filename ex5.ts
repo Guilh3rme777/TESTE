@@ -48,7 +48,7 @@ const users: User[] = [
     },
   },
   {
-    name: "Carla",
+    name: "Bia",
     city: "SP",
     address: {
       city: "SP",
@@ -64,4 +64,4 @@ console.log("\nAgrupando por address.city:");
 console.log(groupBy(users, "address.city"));
 
 console.log("\nAgrupando por address.country.code:");
-console.log(groupBy(users, "address.country.code"));// Guilherme
+console.log(groupBy(users, "address.country.code"));// Guilherme Rodrigues
